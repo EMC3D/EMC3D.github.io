@@ -1,9 +1,0 @@
-Temple of Cambodia Relight
----
-A relight of Scans Factory 'Temple of Cambodia' project inside Unreal Engine 5 using Lumen.
----
-Unreal Engine 5
----
-thumbnail url (gets injected into your landing page) 
----
-Temple of Cambodia Relight
