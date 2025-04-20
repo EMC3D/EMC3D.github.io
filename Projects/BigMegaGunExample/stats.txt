@@ -1,0 +1,13 @@
+Triangles: 
+
+Materials: 
+
+Texture Size: 
+
+Texel Density: 
+
+Workflow: Lumen & Sequencer
+
+Target Engine: Unreal Engine 5
+
+Collaborators: Scans Factory

@@ -1,0 +1,17 @@
+elliott-mcsherry-emc3d-br-00.jpg // elliott-mcsherry-emc3d-cr-02.jpg
+Test
+
+https://cdna.artstation.com/p/assets/images/images/081/893/118/large/elliott-mcsherry-emc3d-br-00.jpg?1731508133
+Description for example2.jpg.
+
+https://cdna.artstation.com/p/assets/images/images/081/893/118/large/elliott-mcsherry-emc3d-br-00.jpg?1731508133
+These aren't real images but need replacing with your own.
+
+https://cdna.artstation.com/p/assets/images/images/081/893/118/large/elliott-mcsherry-emc3d-br-00.jpg?1731508133
+MP4's are also supported but like with images should be hosted somewhere like dropbox.
+
+elliott-mcsherry-emc3d-br-00.jpg // elliott-mcsherry-emc3d-cr-02.jpg
+You can create before and after slider by seperating two urls with ' // ' 
+
+https://cdna.artstation.com/p/assets/images/images/081/893/118/large/elliott-mcsherry-emc3d-br-00.jpg?1731508133
+you can also embed sketchfab files by pasting the url, no need for direct embedd urls. 
