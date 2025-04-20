@@ -6,4 +6,4 @@ Unreal Engine 5
 ---
 cambodia-thumbnail.jpg
 ---
-Temple of Cambodia Relight
+Temple-of-Cambodia-Relight.html
