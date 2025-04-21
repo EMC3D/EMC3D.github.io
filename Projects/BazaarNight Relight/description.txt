@@ -6,4 +6,4 @@ Unreal Engine 5
 ---
 bazaarnight-thumbnail.jpg
 ---
-bazaarnight-relight.html
+BazaarNight-Relight.html
