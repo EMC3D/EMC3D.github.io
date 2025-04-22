@@ -1,1 +1,6 @@
 Unreal Engine 5
+Maya
+Blender
+Photoshop
+Perforce
+Jira

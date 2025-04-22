@@ -1,0 +1,13 @@
+Triangles: 
+
+Materials: 
+
+Texture Size: 
+
+Texel Density: 
+
+Workflow: Dynamic, Non-Lumen
+
+Target Engine: Unreal Engine 5
+
+Collaborators: Tomos Frater, Vishesh Srivastava, Ashley Cross, Aiden Cross, Javert Valbarr, Dan Lodge

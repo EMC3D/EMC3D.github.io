@@ -1,0 +1,10 @@
+Bazaar Night Relight
+---
+A relight of Meshingun Studio Inc 'The Bazaar' project inside Unreal Engine 5 using Lumen. References were very loose and mainly used for inspiration. Maria Yue's 'The Buffoon' inspired the general levels of volumetric and local lighting, with the gradient keylight from the top of the image being based on a technique from the article I had read for how Maria approached the lighting for their project.
+Additionally, the general vibe from Hood: Outlaws & Legends is something I really loved, so I wanted to go for a similar feel based on the ambiance for the stonework colours, but with some added contrast.
+---
+Unreal Engine 5
+---
+bazaarnight-thumbnail.jpg
+---
+BazaarNight-Relight.html
