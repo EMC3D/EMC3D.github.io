@@ -1,0 +1,13 @@
+Triangles: 
+
+Materials: 
+
+Texture Size: 
+
+Texel Density: 
+
+Workflow: Dynamic, Lumen
+
+Target Engine: Unreal Engine 5
+
+Collaborators: William Alexander, Vishesh Srivastava, Marco Dijan, Juan Pedro Salvo
