@@ -4,6 +4,6 @@ A selection of shots from my environment lighting work across the 'Marshlands' z
 ---
 Unreal Engine 5
 ---
-otg01-thumbnail.jpg
+thumbnails/otg01-thumbnail.jpg
 ---
 OTG01.html

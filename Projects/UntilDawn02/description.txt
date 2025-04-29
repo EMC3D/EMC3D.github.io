@@ -4,6 +4,6 @@ A selection of shots from my environment lighting work across various chapters i
 ---
 Unreal Engine 5
 ---
-untildawn02-thumbnail.jpg
+thumbnails/untildawn02-thumbnail.jpg
 ---
 UntilDawn02.html

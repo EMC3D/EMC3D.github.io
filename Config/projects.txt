@@ -6,4 +6,3 @@ ChemicalPlantRelight
 CambodiaRelight
 BazaarRelight
 BazaarNightRelight
-BedroomRelight

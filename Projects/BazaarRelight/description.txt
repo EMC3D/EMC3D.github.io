@@ -4,6 +4,6 @@ A relight of Meshingun Studio Inc 'The Bazaar' project inside Unreal Engine 5 us
 ---
 Unreal Engine 5
 ---
-bazaar-thumbnail.jpg
+thumbnails/bazaar-thumbnail.jpg
 ---
 Bazaar-Relight.html

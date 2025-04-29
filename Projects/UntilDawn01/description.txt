@@ -4,6 +4,6 @@ A selection of shots from my cinematic lighting work across various chapters in 
 ---
 Unreal Engine 5
 ---
-untildawn01-thumbnail.jpg
+thumbnails/untildawn01-thumbnail.jpg
 ---
 UntilDawn01.html

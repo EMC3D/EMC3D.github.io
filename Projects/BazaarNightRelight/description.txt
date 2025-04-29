@@ -5,6 +5,6 @@ Additionally, the general vibe from Hood: Outlaws & Legends is something I reall
 ---
 Unreal Engine 5
 ---
-bazaarnight-thumbnail.jpg
+thumbnails/bazaarnight-thumbnail.jpg
 ---
 BazaarNight-Relight.html

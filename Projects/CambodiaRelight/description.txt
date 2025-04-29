@@ -4,6 +4,6 @@ A relight of Scans Factory 'Temple of Cambodia' project inside Unreal Engine 5 u
 ---
 Unreal Engine 5
 ---
-cambodia-thumbnail.jpg
+thumbnails/cambodia-thumbnail.jpg
 ---
 Temple-of-Cambodia-Relight.html

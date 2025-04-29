@@ -4,6 +4,6 @@ A relight of an asset pack. A lot of the original assets were replaced by other 
 ---
 Unreal Engine 5
 ---
-bedroom-thumbnail.jpg
+thumbnails/bedroom-thumbnail.jpg
 ---
 Bedroom-Relight.html

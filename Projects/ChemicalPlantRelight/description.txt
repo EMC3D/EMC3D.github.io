@@ -4,6 +4,6 @@ A relight of FreshCan 3D 'Chemical Plant & Refinery' project inside Unreal Engin
 ---
 Unreal Engine 5
 ---
-chemical-thumbnail.jpg
+thumbnails/chemical-thumbnail.jpg
 ---
 Chemical-Plant-Relight.html
