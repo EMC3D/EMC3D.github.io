@@ -10,4 +10,4 @@ Workflow: Lumen & Sequencer
 
 Target Engine: Unreal Engine 5
 
-Collaborators: Megascans, DrCG Arch Viz Interior, HQ Bedroom, HQ Interior Plants, NA Electrical Outlet & Switches
+Collaborators: Mike Kurabi's Cathedral Environment

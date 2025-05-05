@@ -1,6 +1,6 @@
 Cathedral Relight
 ---
-Description.
+A relight inspired by the upcoming Dawnwalker series.
 ---
 Unreal Engine 5
 ---
